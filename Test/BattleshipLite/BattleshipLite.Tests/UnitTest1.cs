@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace BattleshipLite
+namespace BattleshipLite.Tests
 {
     public class Tests
     {
